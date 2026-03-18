@@ -1,4 +1,4 @@
-![Intelligent Masculinity Banner](../assets/INTELLIGENT_MASCULINITY_BANNER.png)
+![Intelligent Masculinity Banner](../../assets/INTELLIGENT_MASCULINITY_BANNER.png)
 
 #### _Refusing to outsource accountability - and the discipline to live with the consequences of our actions and value_ with [Nick Paro](https://substack.com/@nickparo).
 
