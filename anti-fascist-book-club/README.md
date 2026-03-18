@@ -10,7 +10,7 @@
 
 ## Contents
 
-- [Episode Reviews](/anti-fascist-book-club/episode-reviews/README.md)
+- [Episode Reviews](./episode-reviews/README.md)
 
 ---
 
