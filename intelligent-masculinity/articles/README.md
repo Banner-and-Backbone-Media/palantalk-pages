@@ -1,4 +1,4 @@
-![Intelligent Masculinity Banner](../assets/INTELLIGENT_MASCULINITY_BANNER.png)
+![Intelligent Masculinity Banner](../../assets/INTELLIGENT_MASCULINITY_BANNER.png)
 
 #### _Refusing to outsource accountability - and the discipline to live with the consequences of our actions and value_ with [Nick Paro](https://substack.com/@nickparo).
 
@@ -8,10 +8,13 @@
 
 ---
 
-## Contents
+## Written Articles
 
-- [Episode Reviews](./episode-reviews/README.md)
-- [Written Articles](./articles/README.md)
+- [#1 - Masculinity and the Lie of Outsourced Accountability](../articles/IM_article01_masculinity-and-the-lie-of-outsourced-accountability.md)
+- [#2 - Who Shapes A Man](../articles/IM_article02_who-shapes-a-man.md)
+- [#3 - Defining Intelligent Masculinity](../articles/IM_article03_defining-intelligent-masculinity.md)
+- [#4 - Disciplined & Practiced](../articles/IM_article04_disciplined-and-practiced.md)
+- [#5 - On Offense](../articles/IM_article05_on-offense.md)
 
 ---
 

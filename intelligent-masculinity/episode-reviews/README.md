@@ -10,16 +10,6 @@
 
 ## Episode Review Articles
 
-#### Articles
-
-- [#1 - Masculinity and the Lie of Outsourced Accountability](../articles/IM_article01_masculinity-and-the-lie-of-outsourced-accountability.md)
-- [#2 - Who Shapes A Man](../articles/IM_article02_who-shapes-a-man.md)
-- [#3 - Defining Intelligent Masculinity](../articles/IM_article03_defining-intelligent-masculinity.md)
-- [#4 - Disciplined & Practiced](../articles/IM_article04_disciplined-and-practiced.md)
-- [#5 - On Offense](../articles/IM_article05_on-offense.md)
-
-#### Interviews
-
 - [#1 - Shane Yirak](./IM_s1e01_shane-yirak.md)
 - [#2 - Sharad Swaney](./IM_s1e02_sharad-swaney.md)
 - [#3 - Lawrence Winnerman](./IM_s1e03_lawrence-winnerman.md)
