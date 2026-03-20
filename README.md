@@ -8,14 +8,8 @@
 
 ## Series
 
-### Banner & Backbone Media
-
-- [Anti Fascist Book Club](/anti-fascist-book-club/README.md)
-- [Palantalk](/palantalk/README.md)
-
-### Sick of this Shit Publications
-
-- [Intelligent Masculinity](/intelligent-masculinity/README.md)
+- [Banner & Backbone Media](/banner-and-backbone-media/README.md)
+- [Sick of this Shit Publications](/sick-of-this-shit-publications/README.md)
 
 ---
 
