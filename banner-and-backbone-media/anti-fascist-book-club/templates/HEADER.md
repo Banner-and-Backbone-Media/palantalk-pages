@@ -1,6 +1,6 @@
 ![Anti Fascist Book Club Banner](../../../assets/AFBC_BANNER.png)
 
-#### _Teaching, Empowering, and Organizing to go on offense against fascism_ with [Nick Paro](https://substack.com/@nickparo), Kristofer Goldsmith, Tara Devlin, and more.
+#### _Teaching, Empowering, and Organizing to go on offense against fascism_ with [Nick Paro](https://substack.com/@nickparo), [Kristofer Goldsmith](https://substack.com/@krisgoldsmith85), [Tara Devlin](https://substack.com/@tarabuster), and more.
 
 ##### Check out the new [Broad Banner](https://www.broadbanner.com/) network and affiliate calendar!
 

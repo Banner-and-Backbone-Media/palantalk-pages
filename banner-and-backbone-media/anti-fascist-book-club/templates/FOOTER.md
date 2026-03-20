@@ -51,4 +51,4 @@ _The America we strive for — it is one where we willingly remember the teachin
 
 ### _Anti Fascist Book Club Team_
 
-~ [Nick Paro](https://substack.com/@nickparo) \| [Kristofer Goldsmith]() \| [Tara Devlin]() ~
+~ [Nick Paro](https://substack.com/@nickparo) \| [Kristofer Goldsmith](https://substack.com/@krisgoldsmith85) \| [Tara Devlin](https://substack.com/@tarabuster) ~

@@ -54,18 +54,13 @@ _The America we strive for — it is one where we willingly remember the teachin
 
 ##### Reach out to the [Banner & Backbone](https://substack.com/@bannerandbackbone) team if you are interested in volunteering time, supporting, and building these community driven platforms:
 
-- Submit feedback directly: [Feedback Form](../templates/forms.gle/BzYT7ULtCQoSWzNm9)
-
-- info@bannerandbackbone.com
-
-- info@sickofthisshitpublications.com
-
-- firebrandproject@proton.me
+- Submit feedback: [Feedback Form](../templates/forms.gle/BzYT7ULtCQoSWzNm9)
+- Email us: [info@bannerandbackbone.com](mailto:info@bannerandbackbone.com)
 
 ##### Support and subscribe to [Banner & Backbone](https://substack.com/@bannerandbackbone) now for only $5 a month or $50 annually!
 
-### _Banner & Backbone Team_
+### _Palantalk Team_
 
-~ [Nick Paro](https://substack.com/@nickparo) \| [Lawrence Winnerman](https://substack.com/@lwinner) \| [Frederic Poag](https://substack.com/@fredericpoag) \| [Ellie Leonard](https://substack.com/@redpencilscript) \| [Melissa Corrigan, she/her](https://substack.com/@itsjustmelissak) \| [Rachel @ This Woman Votes](https://substack.com/@twvme) \| [Shane Yirak](https://substack.com/@shaneyirak) \| [Stephanie G Wilson, PhD](https://substack.com/@freedomoverfascism) \| [Walter Rhein](https://substack.com/@walterrhein) ~
+~ [Nick Paro](https://substack.com/@nickparo) \| [Shane Yirak](https://substack.com/@shaneyirak) ~
 
 <!-- bb:footer:end -->
