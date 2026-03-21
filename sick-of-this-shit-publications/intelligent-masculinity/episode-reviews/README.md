@@ -1,3 +1,6 @@
+---
+---
+
 <!-- bb:header:start -->
 
 ![Intelligent Masculinity Banner](../../../assets/INTELLIGENT_MASCULINITY_BANNER.png)
@@ -14,26 +17,26 @@
 
 ## Episode Review Articles
 
-- [#1 - Shane Yirak](./IM_s1e01_shane-yirak.md)
-- [#2 - Sharad Swaney](./IM_s1e02_sharad-swaney.md)
-- [#3 - Lawrence Winnerman](./IM_s1e03_lawrence-winnerman.md)
-- [#4 - Walter Rhein](./IM_s1e04_walter-rhein.md)
-- [#5 - Dr. Eric Lullove](./IM_s1e05_eric-lullove.md)
-- [#6 - Evan Fields](./IM_s1e06_evan-fields.md)
-- [#7 - Frederic Poag](./IM_s1e07_frederic-poag.md)
-- [#8 - Tim Fullerton](./IM_s1e08_tim-fullerton.md)
-- [#9 - Kristofer Goldsmith](./IM_s1e09_kristofer-goldsmith.md)
-- [#10 - The Opinionated Ogre](./IM_s1e10_the-opinionated-ogre.md)
-- [#11 - Arturo Dominguez](./IM_s1e11_arturo-dominguez.md)
-- [#12 - Bobby Jones](./IM_s1e12_bobby-jones.md)
-- [#13 - Marlon Weems](./IM_s1e13_marlon-weems.md)
-- [#14 - Qasim Rashid, Esq.](./IM_s1e14_qasim-rashid-esq.md)
-- [#15 - Jack](./IM_s1e15-jack.md)
-- [#16 - Will Fullwood](./IM_s1e16_will-fullwood.md)
-- [#17 - Nick Paro](./IM_s1e17_nick-paro.md)
-- [#18 - Joe Plenzler](./IM_s1e18_joe-plenzler.md)
-- [#19 - Steven Acheson](./IM_s1e19_steven-acheson.md)
-- [#20 - Pete Dominick](./IM_s1e20_pete-dominick.md)
+- [#1 - Shane Yirak](./s1e01-shane-yirak.md)
+- [#2 - Sharad Swaney](./s1e02-sharad-swaney.md)
+- [#3 - Lawrence Winnerman](./s1e03-lawrence-winnerman.md)
+- [#4 - Walter Rhein](./s1e04-walter-rhein.md)
+- [#5 - Dr. Eric Lullove](./s1e05-eric-lullove.md)
+- [#6 - Evan Fields](./s1e06-evan-fields.md)
+- [#7 - Frederic Poag](./s1e07-frederic-poag.md)
+- [#8 - Tim Fullerton](./s1e08-tim-fullerton.md)
+- [#9 - Kristofer Goldsmith](./s1e09-kristofer-goldsmith.md)
+- [#10 - The Opinionated Ogre](./s1e10-the-opinionated-ogre.md)
+- [#11 - Arturo Dominguez](./s1e11-arturo-dominguez.md)
+- [#12 - Bobby Jones](./s1e12-bobby-jones.md)
+- [#13 - Marlon Weems](./s1e13-marlon-weems.md)
+- [#14 - Qasim Rashid, Esq.](./s1e14-qasim-rashid-esq.md)
+- [#15 - Jack](./s1e15-jack.md)
+- [#16 - Will Fullwood](./s1e16-will-fullwood.md)
+- [#17 - Nick Paro](./s1e17-nick-paro.md)
+- [#18 - Joe Plenzler](./s1e18-joe-plenzler.md)
+- [#19 - Steven Acheson](./s1e19-steven-acheson.md)
+- [#20 - Pete Dominick](./s1e20-pete-dominick.md)
 - [#21 - Wajahat Ali](./s1e21-wajahat-ali.md)
 
 ---

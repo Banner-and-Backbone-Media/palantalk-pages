@@ -1,0 +1,9 @@
+---
+---
+{% capture header_content %}{% include palantalk-header.md %}{% endcapture %}
+{{ header_content | markdownify }}
+
+{{ content }}
+
+{% capture footer_content %}{% include palantalk-footer.md %}{% endcapture %}
+{{ footer_content | markdownify }}

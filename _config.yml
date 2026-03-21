@@ -1,0 +1,23 @@
+title: BroadBanner Pages
+baseurl: ""
+url: ""
+
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: "sick-of-this-shit-publications/intelligent-masculinity/episode-reviews"
+    values:
+      layout: "intelligent-masculinity"
+  - scope:
+      path: "sick-of-this-shit-publications/intelligent-masculinity/articles"
+    values:
+      layout: "intelligent-masculinity"
+  - scope:
+      path: "banner-and-backbone-media/anti-fascist-book-club/episode-reviews"
+    values:
+      layout: "anti-fascist-book-club"
+  - scope:
+      path: "banner-and-backbone-media/palantalk/episode-reviews"
+    values:
+      layout: "palantalk"
