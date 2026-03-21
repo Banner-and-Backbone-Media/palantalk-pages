@@ -4,6 +4,8 @@ url: "https://pages.broadbanner.com"
 
 markdown: kramdown
 
+theme: jekyll-theme-merlot
+
 defaults:
   - scope:
       path: "index.md"
