@@ -1,3 +1,6 @@
+---
+---
+
 # Intelligent Masculinity | E22 \- Ken Harbaugh
 
 ## Join in with Nick Paro and Ken Harbaugh for a better humaning conversation centered on courage, continued service, and redefining success.
