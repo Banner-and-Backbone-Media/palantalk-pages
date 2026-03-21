@@ -1,6 +1,8 @@
 ---
 ---
 
+# Intelligent Masculinity
+
 ## Written Articles
 
 - [#1 - Masculinity and the Lie of Outsourced Accountability](./01-masculinity-and-the-lie-of-outsourced-accountability.md)
