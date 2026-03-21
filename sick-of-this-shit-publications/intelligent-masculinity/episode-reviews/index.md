@@ -1,6 +1,8 @@
 ---
 ---
 
+# Intelligent Masculinity
+
 ## Episode Review Articles
 
 ### Season 1
