@@ -6,18 +6,14 @@ markdown: kramdown
 
 defaults:
   - scope:
-      path: "sick-of-this-shit-publications/intelligent-masculinity/episode-reviews"
+      path: "sick-of-this-shit-publications/intelligent-masculinity"
     values:
       layout: "intelligent-masculinity"
   - scope:
-      path: "sick-of-this-shit-publications/intelligent-masculinity/articles"
-    values:
-      layout: "intelligent-masculinity"
-  - scope:
-      path: "banner-and-backbone-media/anti-fascist-book-club/episode-reviews"
+      path: "banner-and-backbone-media/anti-fascist-book-club"
     values:
       layout: "anti-fascist-book-club"
   - scope:
-      path: "banner-and-backbone-media/palantalk/episode-reviews"
+      path: "banner-and-backbone-media/palantalk"
     values:
       layout: "palantalk"
