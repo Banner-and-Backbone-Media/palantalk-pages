@@ -1,3 +1,5 @@
-### _Broad Banner Notes_
+### _Why Broad Banner Exists_
+​
+Independent media depends on coordination without consolidation. Broad Banner was created to reduce friction while preserving creator autonomy, transparency, and trust.
 
-_The America we strive for — it is one where we willingly remember the teachings of our past, humbly learn from our failings, proudly celebrate our successes, and boldly lead the way into a future for **all people**._
+This is not a social network - this is a cooperative, community space.
