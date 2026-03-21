@@ -3,6 +3,6 @@
 
 ## Series
 
-- [Intelligent Masculinity](/intelligent-masculinity/README.md)
+- [Intelligent Masculinity](/intelligent-masculinity/index.md)
 
 ---

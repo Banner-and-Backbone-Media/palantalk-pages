@@ -3,7 +3,7 @@
 
 ## Series
 
-- [Anti Fascist Book Club](/anti-fascist-book-club/README.md)
-- [Palantalk](/palantalk/README.md)
+- [Anti Fascist Book Club](/anti-fascist-book-club/index.md)
+- [Palantalk](/palantalk/index.md)
 
 ---

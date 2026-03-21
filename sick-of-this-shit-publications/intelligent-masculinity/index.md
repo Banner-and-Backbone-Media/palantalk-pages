@@ -3,7 +3,7 @@
 
 ## Contents
 
-- [Episode Reviews](./episode-reviews/README.md)
-- [Written Articles](./articles/README.md)
+- [Episode Reviews](./episode-reviews/index.md)
+- [Written Articles](./articles/index.md)
 
 ---
