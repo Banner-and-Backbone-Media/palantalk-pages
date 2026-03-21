@@ -10,7 +10,7 @@ defaults:
   - scope:
       path: "index.md"
     values:
-      layout: "banner-and-backbone-media"
+      layout: "broad-banner"
   - scope:
       path: "sick-of-this-shit-publications"
     values:
