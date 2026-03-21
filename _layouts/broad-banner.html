@@ -1,0 +1,10 @@
+---
+layout: default
+---
+{% capture header_content %}{% include broad-banner-header.md %}{% endcapture %}
+{{ header_content | markdownify }}
+
+{{ content }}
+
+{% capture footer_content %}{% include broad-banner-footer.md %}{% endcapture %}
+{{ footer_content | markdownify }}
