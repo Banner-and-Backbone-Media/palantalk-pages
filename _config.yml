@@ -2,6 +2,8 @@ title: BroadBanner Pages
 baseurl: ""
 url: "https://pages.broadbanner.com"
 
+theme: minima
+
 markdown: kramdown
 
 defaults:
