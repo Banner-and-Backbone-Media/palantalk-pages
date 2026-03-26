@@ -1,3 +1,6 @@
+---
+---
+
 # Intelligent Masculinity | With Matt Gordon
 
 ## Join in with Nick Paro and Matt Gordon for a better humaning conversation focused on emotional discipline, empathy, holding the line, and remaining accountable.
@@ -22,3 +25,4 @@ By the end we see Matt Gordon — a nine-year Marine Corps veteran and the creat
 
 \~ Nick Paro
 
+---
