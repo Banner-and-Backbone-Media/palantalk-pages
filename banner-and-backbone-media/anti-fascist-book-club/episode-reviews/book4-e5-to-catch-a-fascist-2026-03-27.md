@@ -1,3 +1,6 @@
+---
+---
+
 # Anti Fascist Book Club | To Catch A Fascist \- 2026-03-27
 
 ## Book 4, E5 \- Nick, Tara, and Kris break down how white supremacist movements exploit neurodivergence and gaming spaces to radicalize — and what parents, organizers, and community members can do.
@@ -49,3 +52,4 @@ Check out Kris’ latest post in preparation for 3/28’s **No Kings** rally. [D
 * **The Great Deplatforming** — mass removal of alt-right figures from social platforms after January 6th; cited as a brief disruption largely reversed by Elon Musk’s acquisition of Twitter/X  
 * **“Last Rhodesian”** — Dylann Roof’s online handle; a dog whistle referencing the white colonial government of Rhodesia (now Zimbabwe); used to signal ideology in plain sight
 
+---
