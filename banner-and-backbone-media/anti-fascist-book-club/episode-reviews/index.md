@@ -20,5 +20,6 @@
 - [E3 - 2026-03-13](./book4-e03-2026-03-13.md)
 - [E4 \- 2026-03-20](./book4-e04-to-catch-a-fascist-2026-03-20.md)
 - [E5 \- 2026-03-27](./book4-e5-to-catch-a-fascist-2026-03-27.md)
+- [E6 \- 2026-04-03](./book4-e6-to-catch-a-fascist-2026-04-03.md)
 
 ---
