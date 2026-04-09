@@ -1,0 +1,28 @@
+---
+---
+
+# Intelligent Masculinity | With Rachel Maron
+
+## Join Nick Paro and Rachel Maron for a mother-of-six conversation about breaking down performative masculinity and teaching boys to care.
+
+> "Your responsibility as a human being should be to care for people in your community, care for people and whatever your community is, whether it's your preschool, whether it's your family, these are all little community spaces for you."
+>
+> _\~ Rachel Maron \~_
+
+### Masculinity In Review
+
+Nick Paro brings Rachel Maron to Intelligent Masculinity as the series' first female guest, and she arrives with hard-earned credentials: seven adult children, six of them boys. The episode stakes are immediate and concrete—Maron spent 26 years raising large families across two marriages, negotiated household dynamics with real male partners, and emerged with boys who check in with each other in group chats, call home for mediation when relationships get rocky, and openly admit when they've read feminist theory that changed their thinking. The episode is a masterclass in how parental modeling shapes the next generation's relationship to emotions, labor, gender performance, and power.
+
+Maron's core conviction runs through every story she tells: kids learn behavior through modeling, not through lessons. When her ex-husband was perfectly willing to ride as a passenger on her Harley at a biker bar—and defended it to other riders by saying "she rides better than I do"—he was teaching her sons something about male security that no lecture could match. When he took laundry as his domain without turning it into a performance of emasculation, he modeled that adult competence doesn't require gender posturing. When he called his friends to tell them he loved them in the pre-woke 1990s, he created permission for her sons to have emotional intimacy with their peers. None of this required him to identify as feminist. It required him to be present, direct, and unbothered by the performative demands of masculinity.
+
+Maron is unsparing about what breaks boys, and the mechanism is disarmingly simple: when adults tell a child "don't throw like a girl" or "don't cry like a girl," they are not giving tactical advice. They are teaching the child that female and feminine are categories of less-than. She watches this play out in real time on TikTok—dads visibly resentful when their sons lose jiu-jitsu matches to girls with actual training and skill—and names what's happening: the beginning of red-pill ideology. Start with contempt for girls, spiral into contempt for women, end in hatred. The antidote is not more progressive lecturing. It's coaches and fathers and male role models who celebrate a girl's dominance because it's achieved through practice and skill, not because she's performing vulnerability. It's a father who paints his nails sparkly with his son because there's nothing shameful about wanting sparkle in your life.
+
+The conversation pivots, crucially, to what women actually find attractive—and Maron is withering about what the manosphere thinks the answer is. A bigger car, a bigger gym body, an unsolicited photo. None of it. What moves her toward another human being is being *seen*—someone who knows her coffee order, who cares enough to order her water without ice while she's in the bathroom, who shares her library and reads her books because her thoughts matter. She was married 26 years to a man who could not tell you how she took her coffee. She now partners with someone who reads her library. The difference is intimate and observable. Maron names it directly: "Women want to feel like you see them. That's it." This is not a position statement. It's an observation about human longing.
+
+She recommends two books—both by Bell Hooks—as essential reads for any man serious about not being exhausting: *Feminism is for Everybody* (thin, loving, accessible) and *The Will to Change* (about how patriarchy damages men by denying them emotional experience from infancy). Her own son read *Feminism is for Everybody* at 29 and called her hurt that she'd never shown him "that kind of feminism"—the broad, inclusive, loving kind. Her response was sharp: he'd only ever seen embattled feminism because that's the only kind women get to have. Women fight for everything, so feminist spaces become rigid and rigorous. It's not that the loving version doesn't exist. It's that it can't flourish in conditions of scarcity and constant opposition. That reframe—holding tenderness and fierceness in the same hand—lands harder than any both-sides appeal.
+
+Rachel Maron raised six boys and a daughter who are now adults who call each other, support each other, gather to cook for one another, and reach out when they're stuck. She did not achieve this through permissiveness or helicopter parenting. She ran a tight household with clear rules: if you say "I hate you," you stand in the kitchen hugging your brother until you can look him in the eye and say "I love you, I just hate what you're doing." She built non-hierarchical spaces that were still structured. She modeled ambition and boundary-setting alongside her ex-husband's emotional presence and reliability. She refused to perform gender or demand her children perform it. And she refused to accept the terms of either toxic masculinity or the version of feminism that requires women to be embattled all the time. Her sons turned into the kind of men who read feminist theory and call their mother asking why she didn't insist earlier. That's the spine of this episode.
+
+\~ [Nick Paro](https://substack.com/@nickparo)
+
+---
