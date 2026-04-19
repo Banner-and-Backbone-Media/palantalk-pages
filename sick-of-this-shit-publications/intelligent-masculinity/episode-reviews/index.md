@@ -34,5 +34,6 @@
 - [E25 \- Forrest Page](./s1e25-forrest-page.md)
 - [E26 \- Angry Male Vet](./s1e26-angry-male-vet.md)
 - [E27 \- Rachel Maron](./s1e27-rachel-maron.md)
+- [E29 \- K.R. Byers](./s1e29-kr-byers.md)
 
 ---
