@@ -29,23 +29,7 @@ The conversation closes with community art — Walter's daughter's digital illus
 
 ---
 
-### People, Organizations, and Terms
-
-**People:**
-
-- Letters From A Feminist (Lufina) — Substack writer focused on bringing a feminist lens to media commentary. Joined Substack in February 2026. From Uzbekistan; her mother is Tajik. Studying abroad. Writes about American politics from an outside perspective; her view: the manosphere problem is universal across the West and is reaching young men in Central Asia through the same algorithms.
-- Walter Rhein — Co-host of Notes of the Week. 51. Wisconsin progressive activist actively recruiting and supporting primary challengers. Author of an in-progress children's series, _Cosette and the Secrets of the Tooth Fairy_, illustrated by his daughter. Wrote this week's widely-shared note about "the Rape Academy."
-- Nick Paro — Host of Notes of the Week, founder of Sick of This Shit Publications, and developer of BroadBanner. Millennial. Father of two. Working definition of intelligent masculinity: "the refusal to outsource accountability on others, and the discipline to live with the consequences of your values and actions."
-- Joseph Perez Caputo — Congressional candidate Nick recently interviewed. Floated economic-and-ecological policy ideas (community food gardens, native plant landscaping replacing European horticulture, public funding for local food infrastructure) that the hosts cite approvingly.
-- Brittany Jones — Oregon gubernatorial candidate Nick is interviewing the day after this episode airs, with Oregon constituent Rachel Marin co-hosting.
-
-**Organizations / Programs:**
-
-- Sick of This Shit Publications — Nick's publication; tagline this week: "We're done being sick of this shit, so we're doing this shit." Hosts Notes of the Week, intelligent masculinity discussions, chronic illness chats, and candidate interviews.
-- BroadBanner — Nick's network and tooling project for independent creators. Building a booking system (with help from a community member named Courtney) to make interview requests easier.
-- The "Rape Academy" — A site referenced in Walter's note. The site itself was reportedly removed within minutes when someone created a page identifying its participants. Walter's point: the response to attempted accountability was instant, while the original abuse went unaddressed for days. Used in the episode as a case study in how the protective architecture of patriarchy actually operates.
-
-**Terms / Concepts:**
+### Terms and Concepts
 
 - Religious Patriarchy — The episode's title concept. The system in which patriarchal social control derives its legitimacy and emotional weight from religious framing — defining defense of the marginalized as an offense against the divinely-ordained order. Operates upstream of party politics; it is the conditioning that makes Democratic Party restraint feel like virtue and Republican Party aggression feel like nature.
 - Intelligent Masculinity — Nick's working definition: the refusal to outsource accountability onto others, and the discipline to live with the consequences of one's values and actions. The episode functions as a real-time confirmation, with Lufina arriving at the same definition from a feminist starting point.
